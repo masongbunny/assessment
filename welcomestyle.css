@@ -1,0 +1,30 @@
+/* Below line is used for online Google font */
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
+h2{
+padding: 30px 35px;
+margin: -10px -50px;
+text-align:center;
+border-radius: 10px 10px 0 0;
+}
+
+div.container{
+font-family: 'Raleway', sans-serif;
+}
+
+input[type=button]{
+font-size: 16px;
+background: linear-gradient(#020002 5%, #33363D 100%);
+border: 1px solid #020002;
+color: white!important;;
+font-weight: bold;
+cursor: pointer;
+width: 10%;
+border-radius: 5px;
+margin-left: 1200px;
+padding: 10px 0;
+outline:none;
+}
+input[type=button]:hover{
+background: linear-gradient(#020002 5%, #33363D 100%);
+}
